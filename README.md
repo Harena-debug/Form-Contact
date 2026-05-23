@@ -33,8 +33,8 @@ Of course the form is also responsive so that it adapts and displays correctly d
 
 ### Links
 
--Solution URL: [Add solution URL here](https://your-solution-url.com)
--Live Site URL: [Add Live Site URL Here](https://your-live-site-url.com)
+-Solution URL: [GitHub](https://github.com/Harena-debug/Form-Contact)
+-Live Site URL: [Live demo](https://harena-debug.github.io/Form-Contact/)
 
 ## My process
 
